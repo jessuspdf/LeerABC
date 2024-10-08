@@ -52,8 +52,7 @@ class Ejemplo extends StatelessWidget {
                     );
                   },
                   style: ElevatedButton.styleFrom(
-                    primary: Colors.transparent,
-                    onPrimary: Colors.transparent,
+                   
                     shadowColor: Colors.transparent,
                   ),
                   child: Text(
@@ -89,8 +88,7 @@ class Ejemplo extends StatelessWidget {
                     );
                   },
                   style: ElevatedButton.styleFrom(
-                    primary: Colors.transparent,
-                    onPrimary: Colors.transparent,
+                   
                     shadowColor: Colors.transparent,
                   ),
                   child: Text(
@@ -126,8 +124,7 @@ class Ejemplo extends StatelessWidget {
                     );
                   },
                   style: ElevatedButton.styleFrom(
-                    primary: Colors.transparent,
-                    onPrimary: Colors.transparent,
+                   
                     shadowColor: Colors.transparent,
                   ),
                   child: Text(

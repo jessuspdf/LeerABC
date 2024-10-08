@@ -81,6 +81,7 @@ flutter:
   assets:
    - assets/
    - assets/audio/
+   - assets/audio/a.mp3
    - assets/objetosAlfabeto/
    - assets/audios/app.mp3
 
